@@ -1,0 +1,5 @@
+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
+
+env\Scripts\activate
+cd C:\Users\inmoo\Downloads\transcription-main\transcription-main
+streamlit run transcription_temp.py
